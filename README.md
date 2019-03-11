@@ -1,2 +1,2 @@
 # Log-collection-system
-GO语言开发的日志收集系统
+GO语言开发的日志收集系统Demo
